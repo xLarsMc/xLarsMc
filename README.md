@@ -7,8 +7,8 @@
 </div>
 
 ## Sobre mim:
-- 🔭 Sigo em busca da minha primeira vaga na área!
-- 🌱 Atualmente focado no desenvolvimento FullStack utilizando JavaScript com enfoque em: Node.JS e nos frameworks Express e React. Também com conhecimento em Mongo e MySQL para banco de dados não relacionais e relacionais, respectivamente.
+### - 🔭 Sigo em busca da minha primeira vaga na área!
+### - 🌱 Atualmente focado no desenvolvimento FullStack utilizando JavaScript com enfoque em: Node.JS e nos frameworks Express e React. Também com conhecimento em Mongo e MySQL para banco de dados não relacionais e relacionais, respectivamente.
 
 ## Linguagens e bancos de dados utilizados:
 <div display='flex' gap='50px'>

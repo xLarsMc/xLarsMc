@@ -2,17 +2,14 @@
 
 <div>
   <a href='https://github.com/xLarsMc'></a>
-  <img height='250em' src='https://github-readme-stats.vercel.app/api?username=xLarsMc'> 
-  <img height='250em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=xLarsMc'>
+  <img height='180em' src='https://github-readme-stats.vercel.app/api?username=xLarsMc'> 
+  <img height='180em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=xLarsMc'>
+  <img height='180em' src='https://tenor.com/pt-BR/view/inazuma-eleven-ina11-soccer-tyre-hit-gif-19817663.gif'>
 </div>
 
 ## Sobre mim:
 ### - 🔭 Sigo em busca da minha primeira vaga na área!
 ### - 🌱 Atualmente focado no desenvolvimento FullStack utilizando JavaScript com enfoque em: Node.JS e nos frameworks Express e React. Também com conhecimento em Mongo e MySQL para banco de dados não relacionais e relacionais, respectivamente.
-
-<div>
-  <img src='https://tenor.com/pt-BR/view/inazuma-eleven-ina11-soccer-tyre-hit-gif-19817663.gif'>
-</div>
 
 ## Linguagens e bancos de dados utilizados:
 <div display='flex' gap='50px'>

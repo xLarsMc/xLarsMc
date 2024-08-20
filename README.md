@@ -10,6 +10,10 @@
 ### - 🔭 Sigo em busca da minha primeira vaga na área!
 ### - 🌱 Atualmente focado no desenvolvimento FullStack utilizando JavaScript com enfoque em: Node.JS e nos frameworks Express e React. Também com conhecimento em Mongo e MySQL para banco de dados não relacionais e relacionais, respectivamente.
 
+<div>
+  <img src='https://tenor.com/pt-BR/view/inazuma-eleven-ina11-soccer-tyre-hit-gif-19817663.gif'>
+</div>
+
 ## Linguagens e bancos de dados utilizados:
 <div display='flex' gap='50px'>
      <img height='50em'src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg" />

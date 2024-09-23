@@ -27,6 +27,7 @@
 
 <div>
   <ul>
+    <li> <a href='https://github.com/xLarsMc/personal-page'> Página pessoal!</a> </li>
     <li> <a href='https://github.com/xLarsMc/Projeto-Java'> Projeto em Java utilizando artefatos P.O.O</a> </li>
     <li> <a href='https://github.com/xLarsMc/ProjetoWebFrontEnd'> Projeto básico de "cópia" da página principal do minecraft.com</a> </li>
     <li> <a href='https://github.com/xLarsMc/Projeto-Final-BackEnd'> Projeto de uma API para um web-blog, utilizando Node.JS</a> </li>

@@ -8,18 +8,17 @@
 </div>
 
 ## Sobre mim:
-### - 🔭 Sigo em busca da minha primeira vaga na área!
-### - 🌱 Atualmente focado no desenvolvimento FullStack utilizando JavaScript com enfoque em: Node.JS e nos frameworks Express e React. Também com conhecimento em Mongo e MySQL para banco de dados não relacionais e relacionais, respectivamente.
+### - 🌱 Sou programador full-stack na Sanchez & Sanchez Sociedade de Advogados, atuando no desenvolvimento de aplicações robustas utilizando .NET, Angular e PostgreSQL. Minha experiência abrange a criação de soluções tecnológicas como automações de processos (RPA) e web scraping, empregando inúmeras bibliotecas. Contribuo para a inovação e eficiência nos processos internos da empresa, integrando tecnologia às operações jurídicas para aprimorar resultados e satisfação dos clientes.
 
 ## Linguagens e bancos de dados utilizados:
 <div display='flex' gap='50px'>
-     <img height='50em'src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg" />
-     <img height ='50em'src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-     <img height='50em' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />  
+     <img height ='50em'src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
      <img height='50em'src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">    
+     <img height='50em'src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
+     <img height='50em'src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg">
      <img height='50em'src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" /> 
      <img height='50em'src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />    
-     <img height='50em' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
+     <img height='50em' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
           
 </div>
 

@@ -1,9 +1,6 @@
 ## Olá! Eu sou o Leandro Henrique, muito prazer e seja bem-vindo!
 
 <div>
-  <a href='https://github.com/xLarsMc'></a>
-  <img height='180em' src='https://github-readme-stats.vercel.app/api?username=xLarsMc'> 
-  <img height='180em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=xLarsMc'>
   <img height='180em' src='https://tenor.com/pt-BR/view/inazuma-eleven-ina11-soccer-tyre-hit-gif-19817663.gif'>
 </div>
 
@@ -19,16 +16,15 @@
      <img height='50em'src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" /> 
      <img height='50em'src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />    
      <img height='50em' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-          
 </div>
 
 ## Projetos feitos:
 
 <div>
   <ul>
+    <li> <a href='https://github.com/xLarsMc/Microsservices-Messageria'> Projeto de microsserviços e mensageria em .NET com RabbitMQ. Também foi utilizando Razor para criação de uma interface!</a> </li>
+    <li> <a href='https://github.com/xLarsMc/Projeto-FullStack'> Projeto utilizando as bases do .NET, focando sempre em um código limpo e escalável.</a> </li>
     <li> <a href='https://github.com/xLarsMc/personal-page'> Página pessoal!</a> </li>
-    <li> <a href='https://github.com/xLarsMc/Projeto-Java'> Projeto em Java utilizando artefatos P.O.O</a> </li>
-    <li> <a href='https://github.com/xLarsMc/ProjetoWebFrontEnd'> Projeto básico de "cópia" da página principal do minecraft.com</a> </li>
     <li> <a href='https://github.com/xLarsMc/Projeto-Final-BackEnd'> Projeto de uma API para um web-blog, utilizando Node.JS</a> </li>
     <li> <a href='https://github.com/xLarsMc/Projeto-Full-Stack---Back-End'> Projeto de uma API em Node.JS que será consumida por um projeto React.</a> </li>
     <li> <a href='https://github.com/MathKodi/Projeto2-WebFullstack'> Projeto em React, que consumirá a API feita em Node.</a> </li>

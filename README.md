@@ -8,7 +8,7 @@ Jaboticabal, SP, Brazil · Open to remote work · Portuguese (native) · English
 
 ## About
 
-.NET developer with 2 years of professional experience. I currently work as a consultant on a UK energy-sector SaaS product (ITIX, assigned to POWWR, Manchester), in English, with a predominantly British team. In parallel, I am a full-stack developer at Sanchez & Sanchez, building REST APIs and Angular front ends.
+.NET developer with 2 years of professional experience. I currently work as a consultant on a UK energy-sector SaaS product (ITIX, assigned to POWWR, Manchester), in English, with a predominantly British team.
 
 I build and maintain APIs and services in C# and .NET, integrate systems (HTTP, queues, SFTP, Azure services), write automated tests, and investigate production issues with centralised logs. I apply Clean Architecture, SOLID and DDD, and I use AI coding tools (Claude Code, Codex, Cursor) with critical review of everything they generate.
 

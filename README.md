@@ -1,41 +1,74 @@
-## Olá! Eu sou o Leandro Henrique, muito prazer e seja bem-vindo!
+# Leandro Henrique Oliveira Neves
 
-<div>
-  <img height='180em' src='https://tenor.com/pt-BR/view/inazuma-eleven-ina11-soccer-tyre-hit-gif-19817663.gif'>
-</div>
+**.NET Developer** · C# · ASP.NET Core · SQL Server / PostgreSQL · Angular
 
-## Sobre mim:
-### - 🌱 Sou programador full-stack na Sanchez & Sanchez Sociedade de Advogados, atuando no desenvolvimento de aplicações robustas utilizando .NET, Angular e PostgreSQL. Minha experiência abrange a criação de soluções tecnológicas como automações de processos (RPA) e web scraping, empregando inúmeras bibliotecas. Contribuo para a inovação e eficiência nos processos internos da empresa, integrando tecnologia às operações jurídicas para aprimorar resultados e satisfação dos clientes.
+Jaboticabal, SP, Brazil · Open to remote work · Portuguese (native) · English (professional, used daily)
 
-## Linguagens e bancos de dados utilizados:
-<div display='flex' gap='50px'>
-     <img height ='50em'src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-     <img height='50em'src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">    
-     <img height='50em'src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
-     <img height='50em'src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg">
-     <img height='50em'src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" /> 
-     <img height='50em'src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />    
-     <img height='50em' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-</div>
+---
 
-## Projetos feitos:
+## About
 
-<div>
-  <ul>
-    <li> <a href='https://github.com/xLarsMc/Microsservices-Messageria'> Projeto de microsserviços e mensageria em .NET com RabbitMQ. Também foi utilizando Razor para criação de uma interface!</a> </li>
-    <li> <a href='https://github.com/xLarsMc/Projeto-FullStack'> Projeto utilizando as bases do .NET, focando sempre em um código limpo e escalável.</a> </li>
-    <li> <a href='https://github.com/xLarsMc/personal-page'> Página pessoal!</a> </li>
-    <li> <a href='https://github.com/xLarsMc/Projeto-Final-BackEnd'> Projeto de uma API para um web-blog, utilizando Node.JS</a> </li>
-    <li> <a href='https://github.com/xLarsMc/Projeto-Full-Stack---Back-End'> Projeto de uma API em Node.JS que será consumida por um projeto React.</a> </li>
-    <li> <a href='https://github.com/MathKodi/Projeto2-WebFullstack'> Projeto em React, que consumirá a API feita em Node.</a> </li>
-  </ul>
-</div>
+.NET developer with 2 years of professional experience. I currently work as a consultant on a UK energy-sector SaaS product (ITIX, assigned to POWWR, Manchester), in English, with a predominantly British team. In parallel, I am a full-stack developer at Sanchez & Sanchez, building REST APIs and Angular front ends.
 
-## Entre em contato: 
-<div>
-  <ul>
-    <li> <a href="https://www.linkedin.com/in/leandro-neves-lhoneves" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></li>
-    <li> <a href="https://www.instagram.com/le.henrique_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a></li>
-    <li> <a href='mailto:leandrohenriquetti@gmail.com'><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a></li>
-  </ul>
-</div>
+I build and maintain APIs and services in C# and .NET, integrate systems (HTTP, queues, SFTP, Azure services), write automated tests, and investigate production issues with centralised logs. I apply Clean Architecture, SOLID and DDD, and I use AI coding tools (Claude Code, Codex, Cursor) with critical review of everything they generate.
+
+## Experience
+
+| Period | Role | What I do |
+|---|---|---|
+| Mar 2026 – present | **.NET Developer** · ITIX (consultant at POWWR, UK) | Features and fixes on a white-label energy-contracting portal (C#, ASP.NET, SQL Server), Azure integrations, scheduled and queue jobs, production diagnostics, Git Flow and Azure DevOps Pipelines, Kanban with Jira. |
+| Nov 2024 – present | **Full-Stack Developer** · Sanchez & Sanchez | REST APIs in .NET 6 (EF Core, PostgreSQL), Angular 16 interfaces, SignalR notifications instead of polling, RPA/automation with Selenium and direct HTTP integrations, xUnit tests in CI (GitHub Actions), Jenkins builds with Kubernetes/Portainer deployments. |
+
+## Tech stack
+
+| Area | Technologies |
+|---|---|
+| Languages | C#, TypeScript, JavaScript, SQL |
+| Back end | .NET / .NET Framework, ASP.NET Core, Entity Framework Core, Node.js, SignalR |
+| Front end | Angular, React |
+| Data | SQL Server, PostgreSQL, MongoDB, Redis, SQLite |
+| Messaging | RabbitMQ |
+| Architecture | Clean Architecture, Hexagonal, DDD, CQRS, SOLID, REST |
+| Cloud / DevOps | Azure (DevOps, Pipelines, Key Vault, Blob Storage), Docker, GitHub Actions, Jenkins, Kubernetes, Git Flow |
+| Testing | xUnit, NUnit, Moq, Playwright, Vitest |
+
+## Projects
+
+> Most of my recent work lives in **private repositories** (client and personal projects), so the code is not public. I am happy to walk through the architecture and the code in an interview.
+
+### Private projects
+
+**WhatsApp broadcast platform for a medical clinic** *(private, delivered to a client)*
+A system that lets clinic staff send appointment notices to patients one by one, each with the correct scheduling link for the patient's city.
+- Back end in **.NET 8** (Clean Architecture) with PostgreSQL and Redis; **React + TypeScript** front end; WhatsApp delivery through Evolution API, with the architecture ready to switch to the official Meta API.
+- Patient import from Excel with a preview (valid, rejected with reason, duplicated); message templates with per-patient fields.
+- Anti-ban rules: 50 messages per 24 h, random 47–173 s interval, one message per device, per-topic "already received", automatic opt-out.
+- **LGPD** for health data: mandatory login, masked phone numbers, data export/correction/anonymisation/deletion, audit trail, retention policy, encrypted daily backup.
+- Docker-based delivery (one script starts everything), unit, integration (real PostgreSQL in Docker) and E2E (Playwright) tests, CI on every pull request.
+
+**Promotions monitor** *(private, personal project)*
+A desktop app that watches supermarket flyers and electronics deals, matches them against a wish list and posts the relevant ones to WhatsApp groups. Runs fully local.
+- **TypeScript, Electron, Node.js, SQLite**; Google Gemini (vision for flyers and PDFs, plus a relevance judge that removes semantic false positives) and a custom text parser for Telegram deals.
+- Design rules: hard daily send limit with atomic quota reservation, AI cost control (post-ID cache, `Last-Modified` cache), store allowlist and anti-SSRF protections, exhaustive audit logging.
+- Built with TDD: about **1,130 tests** and **95%+ coverage**.
+
+### Public repositories
+
+| Project | Stack | Highlights |
+|---|---|---|
+| [**Microsservices-Messageria**](https://github.com/xLarsMc/Microsservices-Messageria/tree/develop) | .NET 8, RabbitMQ, MySQL, JWT | E-commerce microservices (Product, Cart, Coupon, Order, Payment, Email) communicating through RabbitMQ queues (code on the `develop` branch). |
+| [**HotelBooking**](https://github.com/xLarsMc/HotelBooking) | .NET 8, EF Core, MediatR, NUnit | Hexagonal architecture and DDD, CQRS, booking state machine, payment provider adapters. |
+| [**Projeto-FullStack**](https://github.com/xLarsMc/Projeto-FullStack) | .NET 8, PostgreSQL, xUnit, Docker | Layered API with FluentValidation, i18n error messages, unit and integration tests, SonarCloud in CI. |
+| [**Desafio-API-simples-de-Clientes**](https://github.com/xLarsMc/Desafio-API-simples-de-Clientes) | .NET 8, EF Core, SQLite | Customer CRUD API built as a time-boxed challenge, with Clean Architecture. |
+| [**Projeto-Final-BackEnd**](https://github.com/xLarsMc/Projeto-Final-BackEnd) | Node.js, Express, MongoDB | Blog API with JWT authentication, roles and Swagger docs. |
+
+Earlier academic work (Node.js/React, design patterns, C, Java) is also available in my repositories.
+
+## Education
+
+Associate degree in Systems Analysis and Development, Federal University of Technology – Paraná (UTFPR), 2022–2025. Udemy certifications: Microservices with Hexagonal Architecture, DDD, TDD, CQRS and SOLID (2026); Microservices Architecture with ASP.NET, .NET 6 and C# (2025).
+
+## Contact
+
+- LinkedIn: [linkedin.com/in/leandro-neves-lhoneves](https://www.linkedin.com/in/leandro-neves-lhoneves)
+- Email: [leandrohenriquetti@gmail.com](mailto:leandrohenriquetti@gmail.com)

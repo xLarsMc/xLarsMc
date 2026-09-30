@@ -15,7 +15,7 @@ I build and maintain APIs and services in C# and .NET, integrate systems (HTTP, 
 ## Experience
 
 | Role | What I do |
-|---|---|---|
+|---|---|
 | **.NET Developer** · ITIX (consultant at POWWR, UK) | Features and fixes on a white-label energy-contracting portal (C#, ASP.NET, SQL Server), Azure integrations, scheduled and queue jobs, production diagnostics, Git Flow and Azure DevOps Pipelines, Kanban with Jira. |
 | **Full-Stack Developer** · Sanchez & Sanchez | REST APIs in .NET 6 (EF Core, PostgreSQL), Angular 16 interfaces, SignalR notifications instead of polling, RPA/automation with Selenium and direct HTTP integrations, xUnit tests in CI (GitHub Actions), Jenkins builds with Kubernetes/Portainer deployments. |
 

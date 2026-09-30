@@ -56,7 +56,7 @@ A desktop app that watches supermarket flyers and electronics deals, matches the
 
 | Project | Stack | Highlights |
 |---|---|---|
-| [**Microsservices-Messageria**](https://github.com/xLarsMc/Microsservices-Messageria/tree/develop) | .NET 8, RabbitMQ, MySQL, JWT | E-commerce microservices (Product, Cart, Coupon, Order, Payment, Email) communicating through RabbitMQ queues (code on the `develop` branch). |
+| [**Microsservices-Messageria**](https://github.com/xLarsMc/Microsservices-Messageria) | .NET 8, RabbitMQ, MySQL, JWT | E-commerce microservices (Product, Cart, Coupon, Order, Payment, Email) communicating through RabbitMQ queues. |
 | [**HotelBooking**](https://github.com/xLarsMc/HotelBooking) | .NET 8, EF Core, MediatR, NUnit | Hexagonal architecture and DDD, CQRS, booking state machine, payment provider adapters. |
 | [**Projeto-FullStack**](https://github.com/xLarsMc/Projeto-FullStack) | .NET 8, PostgreSQL, xUnit, Docker | Layered API with FluentValidation, i18n error messages, unit and integration tests, SonarCloud in CI. |
 | [**Desafio-API-simples-de-Clientes**](https://github.com/xLarsMc/Desafio-API-simples-de-Clientes) | .NET 8, EF Core, SQLite | Customer CRUD API built as a time-boxed challenge, with Clean Architecture. |
